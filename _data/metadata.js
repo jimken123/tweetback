@@ -1,9 +1,9 @@
 let data = {
-	username: "eleven_ty", // No leading @ here
-	homeLabel: "11ty.dev",
-	homeUrl: "https://www.11ty.dev/",
+	username: "jimkennedy", // No leading @ here
+	homeLabel: "mananamanana.com",
+	homeUrl: "https://www.mananamanana.com/",
 };
 
-data.avatar = `https://v1.indieweb-avatar.11ty.dev/${encodeURIComponent(data.homeUrl)}/`;
+data.avatar = `https://mananamanana.com/avatar.png`;
 
 module.exports = data;
