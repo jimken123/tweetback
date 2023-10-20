@@ -16,7 +16,7 @@ module.exports = function(eleventyConfig) {
 	});
 
 	eleventyConfig.addJavaScriptFunction("avatarUrl", function avatarUrl(url) {
-		return `https://v1.indieweb-avatar.11ty.dev/${encodeURIComponent(url)}/`;
+		return `https://mananamanana.com/twitter-logo.png`;
 	});
 
 	eleventyConfig.addJavaScriptFunction("renderNumber", function renderNumber(num) {
