@@ -6,4 +6,4 @@ I build this mostly using [tweetback](https://github.com/tweetback/tweetback) fr
 
 I also used some tweaks from [Raúl Piracés](https://github.com/piraces), taken from this [blog post](https://piraces.dev/posts/twitter-own-archive-updated/), and from [Lachlan Campbell](https://github.com/lachlanjc).
 
-![A test image](https://mananamanana.com/avatar.png)
+<p align="center"><img src="https://mananamanana.com/avatar.png"/></p>
